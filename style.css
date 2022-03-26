@@ -23,6 +23,7 @@ html,
   font: 81.25%/1.75 "Open Sans", "Helvetica Neue", Arial, sans-serif;
   color: #3d464d;
 }
+/* <!-- HEADER SECTION --> */
 .figure-area {
   position: relative;
   width: 100%;
@@ -37,6 +38,9 @@ html,
   height: 300px;
   width: 300px;
 }
+/* <!-- HEADER SECTION END--> */
+
+/* <!-- ERRORBOX SECTION --> */
 .errorbox-section {
   position: relative;
   width: 100%;
@@ -71,6 +75,9 @@ html,
   left: 18%;
   margin-top: 9%;
 }
+/* <!-- ERRORBOX SECTION END--> */
+
+/* <!-- FOOTER SECTION --> */
 .links-section {
   position: relative;
   width: 100%;
@@ -96,7 +103,9 @@ html,
   margin: 0;
   list-style-type: none;
 }
+/* <!-- FOOTER SECTION END--> */
 
+/* GRID PROPERTIS */
 .container {
   width: 100vw;
   height: 100vh;
@@ -111,3 +120,4 @@ html,
   grid-column-start: 2;
   grid-column-end: 3;
 }
+/* GRID PROPERTIS END*/
